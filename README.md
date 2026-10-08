@@ -8,7 +8,7 @@
   <a href="mailto:infoaurasil@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://instagram.com/asilsheikh">Instagram</a> &nbsp;·&nbsp;
   <a href="https://t.me/asilsheikh">Telegram</a> &nbsp;·&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=asilbekmadaminov07-cloud&color=4FA8F0&style=flat-square&label=profile+views" alt="Profile views" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=Asilsheikh07&color=4FA8F0&style=flat-square&label=profile+views" alt="Profile views" align="center" />
 </p>
 
 <br />
@@ -42,7 +42,7 @@ I'm Asil, a developer who builds **web products that load fast and rank**, and *
       <h3><a href="https://fsp-trainer-six.vercel.app">FSP Trainer</a></h3>
       <p>An exam-prep platform for dentists moving to Germany. Users practice the <b>FSP (Fachsprachprüfung)</b> by talking to an <b>AI patient in German</b>, by text or voice, making a diagnosis and leveling up through a career system.</p>
       <p><b>Next.js</b> · <b>Supabase</b> (Postgres + Auth) · <b>Gemini API</b> · <b>ElevenLabs</b> voice · <b>Vercel</b></p>
-      <p><a href="https://fsp-trainer-six.vercel.app"><b>Live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/asilbekmadaminov07-cloud/fsp-trainer">Source code</a></p>
+      <p><a href="https://fsp-trainer-six.vercel.app"><b>Live demo →</b></a> &nbsp;·&nbsp; <a href="https://github.com/Asilsheikh07/fsp-trainer">Source code</a></p>
     </td>
   </tr>
 </table>
@@ -50,7 +50,7 @@ I'm Asil, a developer who builds **web products that load fast and rank**, and *
 ### Currently
 
 - Building FSP Trainer and websites for clients
-- Studying agentic AI engineering: OpenAI Agents SDK, CrewAI, LangGraph and MCP ([agentme](https://github.com/asilbekmadaminov07-cloud/agentme))
+- Studying agentic AI engineering: OpenAI Agents SDK, CrewAI, LangGraph and MCP
 - Open to freelance projects and collaborations
 
 ### Principles
@@ -67,14 +67,14 @@ I'm Asil, a developer who builds **web products that load fast and rank**, and *
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asilbekmadaminov07-cloud&show_icons=true&hide_border=true&title_color=1F6FC5&icon_color=4FA8F0&text_color=14213D&bg_color=FFFFFF" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asilbekmadaminov07-cloud&layout=compact&hide_border=true&title_color=1F6FC5&text_color=14213D&bg_color=FFFFFF" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asilsheikh07&show_icons=true&hide_border=true&title_color=1F6FC5&icon_color=4FA8F0&text_color=14213D&bg_color=FFFFFF" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asilsheikh07&layout=compact&hide_border=true&title_color=1F6FC5&text_color=14213D&bg_color=FFFFFF" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asilbekmadaminov07-cloud/asilbekmadaminov07-cloud/output/github-snake-dark.svg" />
-    <img src="https://raw.githubusercontent.com/asilbekmadaminov07-cloud/asilbekmadaminov07-cloud/output/github-snake.svg" alt="Snake eating contributions" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asilsheikh07/Asilsheikh07/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Asilsheikh07/Asilsheikh07/output/github-snake.svg" alt="Snake eating contributions" width="100%" />
   </picture>
 </p>
 
