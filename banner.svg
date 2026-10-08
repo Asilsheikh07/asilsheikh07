@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 420" width="1280" height="420" role="img" aria-label="Asil — Web developer, AI engineer and SEO specialist">
+  <defs>
+    <clipPath id="card"><rect width="1280" height="420" rx="28"/></clipPath>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#14213D" fill-opacity=".08"/></pattern>
+    <filter id="sh" x="-20%" y="-30%" width="140%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#14213D" flood-opacity=".13"/></filter>
+    <style>
+      .sans{font-family:Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}
+      .mono{font-family:'JetBrains Mono',SFMono-Regular,Consolas,monospace}
+      .pulse{animation:pulse 1.6s ease-in-out infinite}
+      @keyframes pulse{50%{opacity:.3}}
+    </style>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1280" height="420" fill="#FBF6EC"/>
+    <rect width="1280" height="420" fill="url(#dots)"/>
+
+    <!-- playful shapes -->
+    <circle cx="1060" cy="150" r="190" fill="#CDE9FC"/>
+    <circle cx="1210" cy="300" r="70" fill="#FFE08A">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-10 -14;0 0" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <g transform="translate(760 70)">
+      <rect x="-26" y="-26" width="52" height="52" rx="14" fill="#B9DFA1">
+        <animateTransform attributeName="transform" type="rotate" values="0;90;0" dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <circle cx="700" cy="300" r="12" fill="#FF8A70">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -16;0 0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="640" cy="120" r="7" fill="#4FA8F0"/>
+
+    <!-- availability pill -->
+    <rect x="64" y="44" width="296" height="42" rx="21" fill="#FFFFFF" stroke="#14213D" stroke-opacity=".08" filter="url(#sh)"/>
+    <circle cx="90" cy="65" r="6" fill="#22C55E" class="pulse"/>
+    <text x="106" y="71" class="sans" font-size="17" font-weight="600" fill="#14213D">Available for new projects</text>
+
+    <!-- identity -->
+    <text x="58" y="208" class="sans" font-size="128" font-weight="800" letter-spacing="-5" fill="#14213D">Asil<tspan fill="#4FA8F0">.</tspan></text>
+    <text x="64" y="256" class="sans" font-size="28" font-weight="500" fill="#4A5568">Web developer, AI engineer &amp; SEO specialist.</text>
+
+    <!-- value chips -->
+    <g class="sans" font-size="18" font-weight="700" fill="#14213D" text-anchor="middle">
+      <rect x="64" y="282" width="226" height="44" rx="22" fill="#CDE9FC"/>
+      <text x="177" y="310">Websites that rank</text>
+      <rect x="302" y="282" width="196" height="44" rx="22" fill="#FFE08A"/>
+      <text x="400" y="310">AI that works</text>
+      <rect x="510" y="282" width="232" height="44" rx="22" fill="#D7EEC8"/>
+      <text x="626" y="310">Code that scales</text>
+    </g>
+
+    <!-- floating discipline cards -->
+    <g class="sans">
+      <g transform="translate(860 64) rotate(-4)">
+        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" repeatCount="indefinite"/>
+          <rect width="300" height="88" rx="20" fill="#FFFFFF" filter="url(#sh)"/>
+          <rect x="18" y="18" width="52" height="52" rx="14" fill="#CDE9FC"/>
+          <text x="44" y="51" text-anchor="middle" class="mono" font-size="18" font-weight="700" fill="#1F6FC5">&lt;/&gt;</text>
+          <text x="86" y="42" font-size="20" font-weight="700" fill="#14213D">Web Engineering</text>
+          <text x="86" y="66" font-size="15" fill="#6B7280">Fast · accessible · modern</text>
+        </g>
+      </g>
+      <g transform="translate(900 168) rotate(3)">
+        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="6s" begin="-2s" repeatCount="indefinite"/>
+          <rect width="300" height="88" rx="20" fill="#FFFFFF" filter="url(#sh)"/>
+          <rect x="18" y="18" width="52" height="52" rx="14" fill="#D7EEC8"/>
+          <path d="M44 30 L48 40 L58 44 L48 48 L44 58 L40 48 L30 44 L40 40 Z" fill="#3E8E2F"/>
+          <text x="86" y="42" font-size="20" font-weight="700" fill="#14213D">AI Systems</text>
+          <text x="86" y="66" font-size="15" fill="#6B7280">Agents · automations</text>
+        </g>
+      </g>
+      <g transform="translate(850 272) rotate(-2)">
+        <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="5.5s" begin="-4s" repeatCount="indefinite"/>
+          <rect width="300" height="88" rx="20" fill="#FFFFFF" filter="url(#sh)"/>
+          <rect x="18" y="18" width="52" height="52" rx="14" fill="#FFE08A"/>
+          <text x="44" y="52" text-anchor="middle" font-size="20" font-weight="800" fill="#8A5A00">#1</text>
+          <text x="86" y="42" font-size="20" font-weight="700" fill="#14213D">Technical SEO</text>
+          <text x="86" y="66" font-size="15" fill="#6B7280">Rank · convert · grow</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- scrolling ticker -->
+    <rect y="372" width="1280" height="48" fill="#4FA8F0"/>
+    <g class="sans" font-size="17" font-weight="800" letter-spacing="2" fill="#FFFFFF">
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1280 0" dur="18s" repeatCount="indefinite"/>
+      <text x="0" y="402" textLength="1280" lengthAdjust="spacing">WEB DEVELOPMENT  ✦  AI AGENTS  ✦  TECHNICAL SEO  ✦  CORE WEB VITALS  ✦  AUTOMATION  ✦</text>
+      <text x="1280" y="402" textLength="1280" lengthAdjust="spacing">WEB DEVELOPMENT  ✦  AI AGENTS  ✦  TECHNICAL SEO  ✦  CORE WEB VITALS  ✦  AUTOMATION  ✦</text>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="419" rx="28" fill="none" stroke="#14213D" stroke-opacity=".08"/>
+</svg>

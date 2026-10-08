@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 260" width="1280" height="260" role="img" aria-label="Have a project in mind? Email infoaurasil@gmail.com">
+  <defs>
+    <clipPath id="card"><rect width="1280" height="260" rx="28"/></clipPath>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.6" fill="#14213D" fill-opacity=".08"/></pattern>
+    <filter id="sh" x="-10%" y="-40%" width="120%" height="200%"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#1F6FC5" flood-opacity=".3"/></filter>
+    <style>.sans{font-family:Inter,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif}</style>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1280" height="260" fill="#CDE9FC"/>
+    <rect width="1280" height="260" fill="url(#dots)"/>
+    <circle cx="1180" cy="40" r="110" fill="#FFE08A"/>
+    <circle cx="120" cy="250" r="70" fill="#D7EEC8"/>
+    <circle cx="640" cy="40" r="9" fill="#FF8A70">
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <rect x=".5" y=".5" width="1279" height="259" rx="28" fill="none" stroke="#14213D" stroke-opacity=".08"/>
+  <text x="80" y="118" class="sans" font-size="54" font-weight="800" letter-spacing="-1.5" fill="#14213D">Have a project in mind?</text>
+  <text x="82" y="166" class="sans" font-size="24" font-weight="500" fill="#3B4A63">Let's build something fast, findable and smart.</text>
+  <g filter="url(#sh)">
+    <rect x="786" y="92" width="420" height="76" rx="38" fill="#14213D">
+      <animate attributeName="fill" values="#14213D;#1F6FC5;#14213D" dur="3s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <text x="996" y="139" text-anchor="middle" class="sans" font-size="23" font-weight="700" fill="#FFFFFF">infoaurasil@gmail.com  →</text>
+</svg>
